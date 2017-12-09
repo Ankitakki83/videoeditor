@@ -1,0 +1,12 @@
+.FooterComponent {
+  width: 100%;
+  background: #1d588a;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.FooterComponent-text {
+  font-size: 26px;
+  color: antiquewhite;
+}
